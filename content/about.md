@@ -7,5 +7,5 @@ title = "About"
 
 ## It is all about the...
 
-whatever
+whatever. It is under construction!
 

@@ -1,21 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on Chasing Bytes</title>
+    <link>http://yavor.in/post/</link>
+    <description>Recent content in Posts on Chasing Bytes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>All rights reserved - 2015</copyright>
     <lastBuildDate>Sun, 22 Mar 2015 20:12:29 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://yavor.in/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/post/first/</link>
+      <link>http://yavor.in/post/first/</link>
       <pubDate>Sun, 22 Mar 2015 20:12:29 +0100</pubDate>
       
-      <guid>http://localhost:1313/post/first/</guid>
-      <description>&lt;p&gt;#Hello World!&lt;/p&gt;
+      <guid>http://yavor.in/post/first/</guid>
+      <description>
+
+&lt;p&gt;Long time ago I had a blog. Then I had another one. Then I had made several wannabe blogs that never saw the light. At the end it always dies due to the lack of habit. This time I will try harder (but no promises given).&lt;/p&gt;
+
+&lt;p&gt;However one thing is sure and it begins with&lt;/p&gt;
+
+&lt;h1 id=&#34;hello-world:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;Hello World!&lt;/h1&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-golang&#34;&gt;package main
+import &amp;quot;fmt&amp;quot;
+
+func main() {
+    fmt.Println(&amp;quot;Hello, 世界&amp;quot;)
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This is &lt;code&gt;Hello World&lt;/code&gt; written in &lt;code&gt;golang&lt;/code&gt;. I think I hate &lt;code&gt;golang&lt;/code&gt; but that&amp;rsquo;s in what &lt;a href=&#34;http://gohugo.io/&#34; title=&#34;A static site generator&#34;&gt;Hugo&lt;/a&gt; is written in. And I chose to run this blog with it so I would give it some honor points in being useful for something.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;So farewell for now.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     

@@ -1,3 +1,20 @@
-baseurl = "http://yourSiteHere/"
+baseurl = "http://yavor.in/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Chasing Bytes"
+paginate = 5
+Copyright = "All rights reserved - 2015"
+
+[params]
+  description = "a tech blog by Yavor Yankov"
+  cover = "images/cover.png"
+  author = "Yavor Yankov"
+  authorlocation = "Sofia, Bulgaria"
+  authorwebsite = "http://yavor.in"
+  bio= "Crafting web"
+  logo = "images/LF-circle.png"
+  googleAnalyticsUserID = "UA-21289610-2"
+  githubName = "LFirestorm"
+  twitterName = "firestorm_1"
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+

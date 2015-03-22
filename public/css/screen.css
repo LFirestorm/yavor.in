@@ -166,6 +166,9 @@ table { border-collapse: collapse; border-spacing: 0; }
     content: "\f442";
 }
 
+.bloglogo {
+    display: inline-block;
+}
 
 /* ==========================================================================
    2. General - Setting up some base styles
